@@ -37,7 +37,7 @@ To set up the project locally, follow these steps
 4. run `npm run dev`.
 5. Go to backend folder. 
 6. run `npm install nodemon`.
-7. run `npm run server`.
+7. run `npm run server`.
 
 ### To access admin panel
 1. Go to admin folder.
