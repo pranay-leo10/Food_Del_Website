@@ -1,7 +1,9 @@
 .header{
     height: 34vw;
-    margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
+    /* width: 100%; */
+    /* max-width: 100px; */
+    margin: 0px auto;
+    background: url('/C:/Users/Pratik/Desktop/food_delivery/frontend/src/assets/header_img.png') no-repeat;
     background-size: contain;
     position: relative;
 }
@@ -15,6 +17,7 @@
     bottom: 10%;
     left: 6vw;
     animation: fadeIn 3s;
+    margin-left: -45px;
 }
 .header-contents h2{
     font-weight: 500;

@@ -7,8 +7,11 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
+          <div className="img-main">
+
             <img src={assets.logo} alt="" />
-            <p>Tomato. is an innovative online platform designed for food lovers who crave the best dishes in town. At Tomato, we simplify your culinary exploration by offering a curated selection of the most delicious dishes from various cuisines, all in one place.</p>
+          </div>
+            <p>QuickBites is an innovative online platform designed for food lovers who crave the best dishes in town. At QuickBites, we simplify your culinary exploration by offering a curated selection of the most delicious dishes from various cuisines, all in one place.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -28,12 +31,12 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>(+91)  9999-765-606</li>
-                <li>contact@tomato.com</li>
+                <li>contact@quickbites.com</li>
             </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 @ Tomato.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 @ QuickBites.com - All Right Reserved.</p>
     </div>
   )
 }
