@@ -1,6 +1,6 @@
-# Tomato.
+# QuickBites
 
-Tomato. provides users with a quick and convenient way to order food directly from a carefully curated list of food items. Our platform focuses on delivering quality and speed, making the process of getting your favorite meals simple and enjoyable.  
+QuickBites provides users with a quick and convenient way to order food directly from a carefully curated list of food items. Our platform focuses on delivering quality and speed, making the process of getting your favorite meals simple and enjoyable.  
 
 ## Table of Contents
 1. Features  
